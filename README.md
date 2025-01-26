@@ -12,7 +12,7 @@ Conference AAAI 2025: Feb 25 - Mar 4, 2025, Philadelphia, PA, United States.
 
 # Dependency
  - Python: 3.10.9
- - pytorch: 1.9.0
+ - pytorch: 1.13.1
 
 # Code Information
  - Coming Soon!

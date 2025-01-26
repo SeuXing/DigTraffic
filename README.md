@@ -8,7 +8,7 @@ The paper is selected as **Oral Presentation** in Thirty-Nineth AAAI Conference 
 Conference AAAI 2025: Feb 25 - Mar 4, 2025, Philadelphia, PA, United States.
 
 ## Overview
-![WholeFramework_v2_png](https://github.com/user-attachments/assets/ed701e1e-f112-40b6-80d8-10127e44de69)
+<img src="DigTraffic.png">
 
 ## Dependency
  - Python: 3.10.9
